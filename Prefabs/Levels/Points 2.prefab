@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &645343956420865515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 645343956420865514}
+  - component: {fileID: 645343956420865513}
+  m_Layer: 0
+  m_Name: EnemyCreator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &645343956420865514
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645343956420865515}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 645343957317358117}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &645343956420865513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645343956420865515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bc8a6859394d95498c06a8e61046da5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  createPointNumber: 0d0000001000000014000000170000001a000000
+  enemies:
+  - {fileID: 2325542132827936011, guid: 76f095ac3f57ed0498f0820b72af62c5, type: 3}
+  - {fileID: 2325542132827936011, guid: 76f095ac3f57ed0498f0820b72af62c5, type: 3}
+  - {fileID: 2325542132827936011, guid: 76f095ac3f57ed0498f0820b72af62c5, type: 3}
+  - {fileID: 2325542132827936011, guid: 76f095ac3f57ed0498f0820b72af62c5, type: 3}
+  - {fileID: 2325542132827936011, guid: 76f095ac3f57ed0498f0820b72af62c5, type: 3}
+--- !u!1 &645343957317358119
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 645343957317358117}
+  - component: {fileID: 645343957317358118}
+  m_Layer: 0
+  m_Name: Points 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &645343957317358117
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645343957317358119}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 645343956420865514}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &645343957317358118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645343957317358119}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6079a7e230eeff64c88da59c912d96f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  railingObject: {fileID: 8667480113808333256, guid: 848c2399b6ad557448694b0018a3504b, type: 3}
+  decorationObject: {fileID: 4441082312196079695, guid: 4d2a6649789aed04893dc7db607f41d2, type: 3}
+  createPoints:
+  - {x: 0, y: 0, z: 0}
+  - {x: 5, y: 0, z: 0}
+  - {x: 10, y: 0, z: -0.5}
+  - {x: 15, y: 1, z: 0}
+  - {x: 20, y: 2, z: 0.5}
+  - {x: 25, y: 3, z: 1}
+  - {x: 30, y: 3, z: 2}
+  - {x: 35, y: 3, z: 3}
+  - {x: 40, y: 3, z: 3.5}
+  - {x: 45, y: 3, z: 5}
+  - {x: 50, y: 3, z: 6}
+  - {x: 55, y: 5, z: 7}
+  - {x: 60, y: 6.5, z: 8}
+  - {x: 65, y: 8, z: 9}
+  - {x: 70, y: 9, z: 10}
+  - {x: 75, y: 10, z: 11}
+  - {x: 80, y: 10, z: 12}
+  - {x: 85, y: 10, z: 13}
+  - {x: 90, y: 11, z: 14}
+  - {x: 95, y: 11, z: 15}
+  - {x: 100, y: 11, z: 16}
+  - {x: 105, y: 12, z: 17}
+  - {x: 110, y: 12, z: 18}
+  - {x: 115, y: 12, z: 19}
+  - {x: 120, y: 12, z: 20}
+  distanceY: 5
+  distanceZ: 10
+  railingLength: 0.5
+  planeObject: {fileID: 6783533334805063153, guid: e9cb8d283f9e11440859439710410915, type: 3}

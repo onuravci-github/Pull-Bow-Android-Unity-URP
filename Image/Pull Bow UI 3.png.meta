@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 2ae1c518e07aa5841a87d85304a1744e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4578518949364941854
+    second: Pull Bow UI 3_0
+  - first:
+      213: -6489839756333337170
+    second: Pull Bow UI 3_1
+  - first:
+      213: 5361472307235676807
+    second: Pull Bow UI 3_2
+  - first:
+      213: -6894697675982942400
+    second: Pull Bow UI 3_3
+  - first:
+      213: 2899683433791408685
+    second: Pull Bow UI 3_4
+  - first:
+      213: -6992139226949196451
+    second: Pull Bow UI 3_5
+  - first:
+      213: -7130439705000440841
+    second: Pull Bow UI 3_6
+  - first:
+      213: -5214467282293652499
+    second: Pull Bow UI 3_7
+  - first:
+      213: 7281619926103599152
+    second: Pull Bow UI 3_8
+  - first:
+      213: 7501578696342406405
+    second: Pull Bow UI 3_9
+  - first:
+      213: -6433579502556704933
+    second: Pull Bow UI 3_10
+  - first:
+      213: 5235579281319600606
+    second: Pull Bow UI 3_11
+  - first:
+      213: -2039196611318511543
+    second: Pull Bow UI 3_12
+  - first:
+      213: 4077478424495168427
+    second: Pull Bow UI 3_13
+  - first:
+      213: 5144459287429723830
+    second: Pull Bow UI 3_14
+  - first:
+      213: 2321170318680013141
+    second: Pull Bow UI 3_15
+  - first:
+      213: 3632745964997750252
+    second: Pull Bow UI 3_16
+  - first:
+      213: 3242177482990468228
+    second: Pull Bow UI 3_17
+  - first:
+      213: 1110415332349375519
+    second: Pull Bow UI 3_18
+  - first:
+      213: 7109462395903577714
+    second: Pull Bow UI 3_19
+  - first:
+      213: -3068348366824413415
+    second: Pull Bow UI 3_20
+  - first:
+      213: 2779060119564419696
+    second: Pull Bow UI 3_21
+  - first:
+      213: -6178490237859096698
+    second: Pull Bow UI 3_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 17
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pull Bow UI 3_0
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 884
+        width: 716
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ca46f9ba2a8f30800000000000000
+      internalID: 4578518949364941854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 647
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea53b8250257fe5a0800000000000000
+      internalID: -6489839756333337170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_2
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 755
+        width: 290
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78260e938a6c76a40800000000000000
+      internalID: 5361472307235676807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_3
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 755
+        width: 290
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f435d4efc1150a0800000000000000
+      internalID: -6894697675982942400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 290
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ac83848bebd3820800000000000000
+      internalID: 2899683433791408685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 599
+        width: 290
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d556e954b6ee6fe90800000000000000
+      internalID: -6992139226949196451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_6
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 599
+        width: 290
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb8b13fdd69b0d90800000000000000
+      internalID: -7130439705000440841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_7
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 599
+        width: 290
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de38df952ad72a7b0800000000000000
+      internalID: -5214467282293652499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 290
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038afcc3eb28d0560800000000000000
+      internalID: 7281619926103599152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 437
+        width: 290
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505802a4416fa1860800000000000000
+      internalID: 7501578696342406405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_10
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 437
+        width: 290
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f8fdb678557b6a0800000000000000
+      internalID: -6433579502556704933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_11
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 437
+        width: 290
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed12378fd9388a840800000000000000
+      internalID: 5235579281319600606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 290
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9480e237c7153b3e0800000000000000
+      internalID: -2039196611318511543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 287
+        width: 290
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab9a5f060d169830800000000000000
+      internalID: 4077478424495168427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_14
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 287
+        width: 290
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b635b4277ac46740800000000000000
+      internalID: 5144459287429723830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_15
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 282
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5593a145b14763020800000000000000
+      internalID: 2321170318680013141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_16
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 284
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedace2453b1a6230800000000000000
+      internalID: 3632745964997750252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 146
+        width: 385
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cba643e378efc20800000000000000
+      internalID: 3242177482990468228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_18
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 125
+        width: 109
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14f4dd8cdcf86f00800000000000000
+      internalID: 1110415332349375519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_19
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 186
+        width: 502
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e84dba162e9a260800000000000000
+      internalID: 7109462395903577714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_20
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 148
+        width: 499
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917e74cca690b65d0800000000000000
+      internalID: -3068348366824413415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 842
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07287146474319620800000000000000
+      internalID: 2779060119564419696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pull Bow UI 3_22
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 6
+        width: 460
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687903c1dd7914aa0800000000000000
+      internalID: -6178490237859096698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8cc3f9fb6a317494cb6d6dc0b8608b08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
